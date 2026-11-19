@@ -1,10 +1,11 @@
 Package: rpkg.template
-Title: What the Package Does (One Line, Title Case)
+Title: Seasonal Adjustment and Piecewise Linear Regression
 Version: 0.1.0.9000
 Authors@R: c(
-  person("Dongdong", "Kong", role = c("aut", "cre"), 
-         email = "kongdd.sysu@gmail.com", comment = c(ORCID = "0000-0003-1836-8172")))
-Description: What the package does (one paragraph).
+  person("Tongle", "Gao", role = c("aut", "cre"),
+         email = "2428537254@qq.com"))
+Description: Removes seasonal cycles from daily or monthly series and fits
+    piecewise linear regression models with one or multiple breakpoints.
 License: MIT + file LICENSE
 Imports:
     magrittr

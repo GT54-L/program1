@@ -4,16 +4,16 @@
 \name{rpkg.template-package}
 \alias{rpkg.template}
 \alias{rpkg.template-package}
-\title{rpkg.template: What the Package Does (One Line, Title Case)}
+\title{rpkg.template: Seasonal Adjustment and Piecewise Linear Regression}
 \description{
-What the package does (one paragraph).
+Removes seasonal cycles from daily or monthly series and fits piecewise linear regression models with one or multiple breakpoints.
 }
 \author{
-\strong{Maintainer}: Dongdong Kong \email{kongdd.sysu@gmail.com} (\href{https://orcid.org/0000-0003-1836-8172}{ORCID})
+\strong{Maintainer}: Tongle Gao \email{2428537254@qq.com}
 
 Authors:
 \itemize{
-  \item Dongdong Kong \email{kongdd.sysu@gmail.com} (\href{https://orcid.org/0000-0003-1836-8172}{ORCID})
+  \item Tongle Gao \email{2428537254@qq.com}
 }
 
 }
